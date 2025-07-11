@@ -1,0 +1,9 @@
+{
+  "domain": "voltview",
+  "name": "VoltView",
+  "version": "1.0.0",
+  "documentation": "https://github.com/tuo-username/voltview",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": ["@tuo-username"]
+}

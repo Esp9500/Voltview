@@ -1,0 +1,9 @@
+domain: voltview
+name: VoltView
+content_in_root: false
+zip_release: false
+filename: custom_components/voltview/__init__.py
+type: integration
+version: "1.0.0"
+release_branch: main
+hacs: true
