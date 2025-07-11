@@ -2,8 +2,9 @@
   "domain": "voltview",
   "name": "VoltView",
   "version": "1.0.0",
-  "documentation": "https://github.com/tuo-username/voltview",
+  "documentation": "https://github.com/esp9500/voltview",
   "requirements": [],
   "dependencies": [],
-  "codeowners": ["@tuo-username"]
+  "codeowners": ["@esp9500"],
+  "icon": "icon.png"
 }
