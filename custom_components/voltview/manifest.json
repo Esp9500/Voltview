@@ -1,8 +1,8 @@
 {
-  "domain": "voltview",
-  "name": "voltview",
+  "domain": "VoltView",
+  "name": "VoltView",
   "version": "1.0.0",
-  "documentation": "https://github.com/esp9500/voltview",
+  "documentation": "https://github.com/esp9500/VoltView",
   "requirements": [],
   "dependencies": [],
   "codeowners": ["@esp9500"],
