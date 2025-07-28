@@ -1,0 +1,10 @@
+{
+  "name": "VoltView",
+  "content_in_root": false,
+  "domains": ["voltview"],
+  "country": "IT",
+  "homeassistant": "2023.0.0",
+  "render_readme": true,
+  "filename": "custom_components/voltview/manifest.json",
+  "icon": "icon.png"
+}
