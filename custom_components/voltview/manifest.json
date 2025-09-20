@@ -6,5 +6,6 @@
   "requirements": [],
   "dependencies": [],
   "codeowners": ["@esp9500"],
-  "icon": "icon.png"
+  "icon": "/custom_components/voltview/icon.png"
+
 }
